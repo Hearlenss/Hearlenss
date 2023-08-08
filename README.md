@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Satılmış</h1>
 <h3 align="center">A passionate back-end developer from Turkey</h3>
-[url=https://hizliresim.com/cczcp0h][img]https://i.hizliresim.com/cczcp0h.jpg[/img][/url]
-
+<img src="https://hizliresim.com/cczcp0h][img]https://i.hizliresim.com/cczcp0h.jpg">
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **mstf.stlmse@gmail.com**
