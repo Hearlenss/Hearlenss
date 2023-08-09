@@ -3,7 +3,7 @@
 <center><img src="https://s11.gifyu.com/images/ScVis.jpg"/></center>
 - 🌱 I’m currently learning Python
 
-- 📫 How to reach me **mstf.stlmse@gmail.com**
+- 📫 How to reach me **thtmedusa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
