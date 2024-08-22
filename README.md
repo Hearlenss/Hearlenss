@@ -1,6 +1,5 @@
 
 <h3 align="center">A passionate back-end developer</h3>
-<center><img src="https://s11.gifyu.com/images/ScVis.jpg"/></center>
 - 🌱 I’m currently learning Python
 
 - 📫 How to reach me **thtmedusa@gmail.com**
