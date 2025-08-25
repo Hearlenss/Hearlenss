@@ -1,6 +1,6 @@
 # 💻 Welcome to Hearlenss's Lab  
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="800"/>
+<img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="800"/>
 
 ---
 
