@@ -1,6 +1,6 @@
 # 💻 Welcome to Hearlenss's Lab  
 <p align="center">
-  <img src="https://img.icons8.com/?size=512&id=13441&format=png" width="150" alt="Cyber Security Logo" />
+  <img src="https://i.imgur.com/30QEpJC_d.webp?maxwidth=760&fidelity=grandsize=512&id=13441&format=png" width="150" alt="Cyber Security Logo" />
 </p>
 ---
 
