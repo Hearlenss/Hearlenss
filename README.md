@@ -1,6 +1,6 @@
 # 💻 Welcome to Hearlenss's Lab  
 <p align="center">
-<img src="https://raw.githubusercontent.com/username/repo/main/assets/matrix.gif" width="800" alt="Matrix kod akışı" />
+  <img src="https://img.icons8.com/?size=512&id=13441&format=png" width="150" alt="Cyber Security Logo" />
 </p>
 ---
 
