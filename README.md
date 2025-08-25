@@ -29,8 +29,9 @@
 ## ⚔️ Platforms & Cybersecurity Journey
 <p align="left">
   <img src="https://tryhackme-badges.s3.amazonaws.com/TryHackMe.png" alt="tryhackme" width="120" />
-  <img src="https://www.hackthebox.com/storage/branding/htb-logo.png" alt="hackthebox" width="120"/>
-  <img src="https://www.kali.org/wp-content/uploads/2020/06/kali-dragon-icon.svg" alt="kali-linux" width="80"/>
+  <img src="https://www.kali.org/images/kali-logo.svg" alt="kali-linux" width="80"/>
+  <img src="https://overthewire.org/img/otw-badge.png" alt="OverTheWire" width="120"/>
+  <img src="https://ctftime.org/static/images/ctftime-logo.png" alt="CTFtime" width="120"/>
 </p>
 
 ---
