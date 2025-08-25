@@ -1,8 +1,6 @@
 # 💻 Welcome to Hearlenss's Lab  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="400" alt="Matrix Hacker">
-</p>
+<img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="800"/>
 
 ---
 
