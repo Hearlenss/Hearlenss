@@ -29,8 +29,8 @@
 ## ⚔️ Platforms & Cybersecurity Journey
 <p align="left">
   <img src="https://tryhackme-badges.s3.amazonaws.com/TryHackMe.png" alt="tryhackme" width="120" />
-  <img src="https://assets.hackthebox.com/images/logo-htb.svg" alt="hackthebox" width="120"/>
-  <img src="https://www.kali.org/images/kali-logo.svg" alt="kali-linux" width="90"/>
+  <img src="https://www.hackthebox.com/storage/branding/htb-logo.png" alt="hackthebox" width="120"/>
+  <img src="https://www.kali.org/wp-content/uploads/2020/06/kali-dragon-icon.svg" alt="kali-linux" width="80"/>
 </p>
 
 ---
@@ -52,13 +52,13 @@
 ---
 
 ## 📬 Connect with Me  
-- 📷 [Instagram](https://instagram.com/mstffstlmss)  
-- 💬 [Telegram](https://t.me/eminstlmss)  
+- 📷 [Instagram](https://instagram.com/USERNAME)  
+- 💬 [Telegram](https://t.me/USERNAME)  
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/kdQazQySgvp1n1qm3Z/giphy.gif" width="300" alt="Mr Robot Funny">
 </p>  
 
 ✨ *Hack the planet. Secure the future.* ✨
