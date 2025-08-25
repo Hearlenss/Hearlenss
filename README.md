@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://i.imgur.com/30QEpJC_d.webp?maxwidth=760&fidelity=grandsize=512&id=13441&format=png" width="150" alt="Cyber Security Logo" />
 </p>
----
 
 ## 🕶️ About Me  
 🚀 Passionate **Cyber Security Student** & **Back-End Developer**  
