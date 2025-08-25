@@ -1,8 +1,9 @@
 
 <h3 align="center">A passionate back-end developer</h3>
 - 🌱 I’m currently learning Python
-
-- 📫 How to reach me **thtmedusa@gmail.com**
+- 🥈TUBITAK
+- 🏆CTF
+- 📫 How to reach me **mstf.stlms@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
