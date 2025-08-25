@@ -1,7 +1,7 @@
 # 💻 Welcome to Hearlenss's Lab  
-
+<p align="center">
 <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="800"/>
-
+</p>
 ---
 
 ## 🕶️ About Me  
@@ -56,7 +56,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kdQazQySgvp1n1qm3Z/giphy.gif" width="300" alt="Mr Robot Funny">
+<img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="800"/>
 </p>  
 
 ✨ *Hack the planet. Secure the future.* ✨
