@@ -56,7 +56,7 @@
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="800"/>
+  <img src="https://i.imgur.com/WBz6ZcF.png" width="400" alt="Mr. Robot" />
 </p>  
 
 ✨ *Hack the planet. Secure the future.* ✨
