@@ -1,6 +1,6 @@
 # 💻 Welcome to Hearlenss's Lab  
 <p align="center">
-<img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="800"/>
+<img src="https://raw.githubusercontent.com/username/repo/main/assets/matrix.gif" width="800" alt="Matrix kod akışı" />
 </p>
 ---
 
