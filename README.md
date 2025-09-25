@@ -19,7 +19,6 @@
 
 ## 🏆 Achievements  
 - 🥈 **TÜBİTAK 2nd Place**  
-- 🏆 **CTF Champion**  
 
 ---
 
